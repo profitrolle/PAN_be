@@ -1,0 +1,25 @@
+{
+    "id":{
+        "name":"bloc_0",
+        "grade":"6a",
+        "opener":"jean-marc",
+        "note":9,
+        "holds":[
+            {
+                "coordinates":[0, 0],
+                "type":"hands",
+                "position":0
+            },
+            {
+                "coordinates":[1, 1],
+                "type":"hands",
+                "position":0
+            },
+            {
+                "coordinates":[0, 1],
+                "type":"foot",
+                "position":0
+            }
+        ]
+    }
+}
